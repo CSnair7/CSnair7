@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing the piano and sleeping
 - 🌱 I’m currently learning about how to integrate LLMs in python
 - 💞️ I’m looking to collaborate on anything AI-based
-- 📫 How to reach me - discord: __banastre22
+- 📫 How to reach me - discord: __banastre22; gmail: chinmaynair008@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
