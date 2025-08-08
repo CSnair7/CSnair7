@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CSnair7
 - 👀 I’m interested in playing the piano and sleeping
-- 🌱 I’m currently learning about how to integrate LLMs in python
-- 💞️ I’m looking to collaborate on anything AI-based
+- 🌱 I’m currently learning about how to create LLMs in python
+- 💞️ I’m looking to collaborate on anything ML-related
 - 📫 How to reach me - discord: __banastre22; gmail: chinmaynair008@gmail.com
 - 😄 Pronouns: he/him
 
